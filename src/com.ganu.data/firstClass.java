@@ -16,5 +16,6 @@ public class firstClass {
         this.name = name;
     }
 
-    public String change;
+    private String sveiki;
+
 }
