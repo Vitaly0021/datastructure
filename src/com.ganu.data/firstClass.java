@@ -15,4 +15,7 @@ public class firstClass {
     public void setName(String name) {
         this.name = name;
     }
+
+    private String hello;
+
 }
