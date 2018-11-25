@@ -16,6 +16,6 @@ public class firstClass {
         this.name = name;
     }
 
-    private String hello;
+    private String sveiki;
 
 }
